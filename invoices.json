@@ -33,10 +33,19 @@
 			"date": "2017-09-08",
 			"recipient": {
 				"name": "lsadkjfad",
-				"address": "asdlfkjasdjflaskdjfasdjf\nsdklfjasdfjasdkjfasdjf"
+				"address": "asdfasdfasdf\nasdfasdf\nasdfasdf"
 			},
 			"currency": "$",
-			"services": []
+			"services": [
+				{
+					"description": " lkasdfjlasdkf0asdaf",
+					"amount": "23452345"
+				},
+				{
+					"description": "90uokqwelafdnaksjdhf",
+					"amount": "0923485"
+				}
+			]
 		},
 		{
 			"id": "1",
